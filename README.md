@@ -1,12 +1,29 @@
-## Welcome to GitHub Pages
+## Spyral References
 
-You can use the [editor on GitHub](https://github.com/kaylinland/SpyralRef/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Spyral Notebooks work side by side with Voyant Tools. Create interactive notebooks with code and text to save your Voyant results, expand them, and perform robust textual analysis using JavaScript. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Use this site to find Spyral reference material and tutorials. 
 
-### Markdown
+### Reference Material
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The official Spyral documentation written in JS Docs is located at https://voyant-tools.org/docs/#!/api/Spyral.Notebook (Experience Level: Expert) 
+
+For Spyral Notebooks containing expanded code samples following the documentation, we have created the Spyral Reference Manual. Each section of the reference manual consists of sample code that can be copied and pasted into your own Spyral Notebooks. (Experience Level: Intermediate) 
+
+- Categories
+- Chart
+- [Corpus](https://voyant-tools.org/spyral/corpus): Notebook includes code showing how to upload a corpus to Spyral and edit the corpus
+- Load
+- Metadata
+- [Notebook](https://voyant-tools.org/spyral/import): Notebook includes code showing how to input an existing Spyral Notebook into a new Spyral Notebook
+- Table 
+- Util
+
+### Spyral Recipes
+
+Spyral Recipes provide code samples for specific tasks common to literary text analysis. Recipes are a great starting point for those with limited coding skills to understand how to use Spyral. They also act as tutorials and provide clear instructions meant for a general audience. (Experience Level: Novice)
+
+
 
 ```markdown
 Syntax highlighted code block
